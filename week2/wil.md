@@ -22,3 +22,5 @@ Branch,Merge,Issue
 
 ### 다음 스터디 목표
 오늘 배운 것을 바탕으로 다음 수업을 이해하도록 노력해야겠다. 
+
+https://github.com/dabel11/2025-1-Beginner-Study/pull/1
